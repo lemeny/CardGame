@@ -1,3 +1,8 @@
 version https://git-lfs.github.com/spec/v1
+<<<<<<< Updated upstream
 oid sha256:93251a9ee213510ea100d945a200fc1d00049146b07f3084957b8fd74ffc3bfd
 size 16684
+=======
+oid sha256:1ed2665c4bcc0466adb89d817ce5e6ddde844698b8f0db19cdbef2052b21c19b
+size 56030
+>>>>>>> Stashed changes
