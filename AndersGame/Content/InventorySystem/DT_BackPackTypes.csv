@@ -1,0 +1,3 @@
+---,BackpackID,DisplayName,GridX,GridY,MaxWeight,DisplayIcon,Description
+1,1,Small Backpack,4,6,10,/Game/InventorySystem/SmallPack,A small backpack for carrying essentials
+2,2,Medium Backpack,6,8,20,/Game/InventorySystem/MidPack,A medium-sized backpack for carrying more items
