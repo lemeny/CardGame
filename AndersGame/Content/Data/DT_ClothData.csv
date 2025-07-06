@@ -1,0 +1,4 @@
+---,Name,ChaosValue,Mesh,Spawn Location
+1,Sock,10,/Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp,"(X=0,Y=0,Z=0)"
+2,Shirt,25,/Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder,"(X=0,Y=0,Z=0)"
+3,Sheet,30,/Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube,"(X=0,Y=0,Z=0)"

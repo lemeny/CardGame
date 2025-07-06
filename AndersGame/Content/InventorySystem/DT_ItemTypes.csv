@@ -1,0 +1,4 @@
+---,ItemID,DisplayName,SizeX,SizeY,Weight,DisplayIcon,Discription,IsStackable,MaxStackNum,SpawnRate
+1,001,Key,1,6,0.100000,/Game/InventorySystem/Key.Key,A key to unlock doors and chests.,False,1,0.8
+2,002,Normal Block,3,3,0.500000,/Game/InventorySystem/NormalBlock.NormalBlock,A normal block used for building.,True,10,0.8
+3,003,Stone Block,3,3,0.700000,/Game/InventorySystem/NormalBlock.NormalBlock, A stone block used for building.),True,10,0.1
