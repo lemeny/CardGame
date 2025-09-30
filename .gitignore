@@ -1,0 +1,21 @@
+# Ignore build artifacts and temporary files
+*.log
+*.tmp
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Content/Developers/
+*.pdb
+*.obj
+*.log
+*.tmp
+# IDE/工具
+.vs/
+*.VC.db
+*.VC.opendb
+.idea/
+.vscode/
+# 系统文件
+*.DS_Store
+Thumbs.db
