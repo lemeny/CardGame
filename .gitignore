@@ -19,3 +19,15 @@ Content/Developers/
 # 系统文件
 *.DS_Store
 Thumbs.db
+FunctionTest/FunctionTest.sln
+
+# Unity-generated files to ignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Aa]ssets/Plugins/*
+*.csproj
+*.unitypackage
+*.sln
+.DS_Store
